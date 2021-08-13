@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=J1-SH1
+Removed Pin From Net: NetName=GND Pin=J1-SH2
+Removed Pin From Net: NetName=GND Pin=J1-SH3
+Removed Pin From Net: NetName=GND Pin=J1-SH4
+Change Component Footprint: Designator=LED3 Old Footprint=LED 0805G New Footprint=LED 0603G
+Added Room: Name=Sheet1

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J1-SH1
+Removed Pin From Net: NetName=GND Pin=J1-SH2
+Removed Pin From Net: NetName=GND Pin=J1-SH3
+Removed Pin From Net: NetName=GND Pin=J1-SH4
+Change Component Footprint: Designator=J1 Old Footprint=Type_C-UJ31-CH-G2-SMT-TR(Primary) New Footprint=Type_C-TE_1-2295018-2(Primary)
+Change Component Comment : Designator=R5 Old Comment=1K New Comment=0K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=4K7
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=1uf
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=1uf
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=4.7uf
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=100nf
+Added Room: Name=Sheet1

@@ -1,0 +1,172 @@
+Added Component: Designator=C1(C 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(HDR2.54-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-LI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(HDR2.54-LI-7P)
+Add component (AddParameter): Name = "BOM名称"; Value = "7P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDR2.54-LI-2x4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0603B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0603Y)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0805G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U1(CP2104)
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=JP4-1
+Added Pin To Net: NetName=3.3V Pin=JP4-3
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=U1-5
+Added Pin To Net: NetName=3.3V Pin=U1-6
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=JP1-1
+Added Pin To Net: NetName=5V Pin=JP4-5
+Added Pin To Net: NetName=5V Pin=JP4-7
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=5V Pin=U1-7
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Net: Name=5V
+Added Pin To Net: NetName=CTS Pin=JP3-2
+Added Pin To Net: NetName=CTS Pin=U1-18
+Added Net: Name=CTS
+Added Pin To Net: NetName=DCD Pin=JP3-6
+Added Pin To Net: NetName=DCD Pin=U1-24
+Added Net: Name=DCD
+Added Pin To Net: NetName=DSR Pin=JP3-4
+Added Pin To Net: NetName=DSR Pin=U1-22
+Added Net: Name=DSR
+Added Pin To Net: NetName=DTR Pin=JP3-5
+Added Pin To Net: NetName=DTR Pin=U1-23
+Added Net: Name=DTR
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=GND Pin=JP4-2
+Added Pin To Net: NetName=GND Pin=JP4-4
+Added Pin To Net: NetName=GND Pin=JP4-6
+Added Pin To Net: NetName=GND Pin=JP4-8
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_0 Pin=JP2-5
+Added Pin To Net: NetName=GPIO_0 Pin=U1-14
+Added Net: Name=GPIO_0
+Added Pin To Net: NetName=GPIO_1 Pin=JP2-4
+Added Pin To Net: NetName=GPIO_1 Pin=U1-13
+Added Net: Name=GPIO_1
+Added Pin To Net: NetName=GPIO_2 Pin=JP2-3
+Added Pin To Net: NetName=GPIO_2 Pin=U1-12
+Added Net: Name=GPIO_2
+Added Pin To Net: NetName=GPIO_3 Pin=JP2-2
+Added Pin To Net: NetName=GPIO_3 Pin=U1-11
+Added Net: Name=GPIO_3
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R5-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetJ1_6 Pin=U1-3
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=U1-4
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R4-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-9
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-16
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=RI Pin=JP3-7
+Added Pin To Net: NetName=RI Pin=U1-1
+Added Net: Name=RI
+Added Pin To Net: NetName=RTS Pin=JP3-3
+Added Pin To Net: NetName=RTS Pin=U1-19
+Added Net: Name=RTS
+Added Pin To Net: NetName=RXD Pin=JP1-3
+Added Pin To Net: NetName=RXD Pin=LED2-2
+Added Pin To Net: NetName=RXD Pin=U1-20
+Added Net: Name=RXD
+Added Pin To Net: NetName=SUSPEND_1 Pin=JP2-1
+Added Pin To Net: NetName=SUSPEND_1 Pin=U1-15
+Added Net: Name=SUSPEND_1
+Added Pin To Net: NetName=SUSPEND Pin=JP3-1
+Added Pin To Net: NetName=SUSPEND Pin=U1-17
+Added Net: Name=SUSPEND
+Added Pin To Net: NetName=TXD Pin=JP1-2
+Added Pin To Net: NetName=TXD Pin=LED3-2
+Added Pin To Net: NetName=TXD Pin=U1-21
+Added Net: Name=TXD
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
